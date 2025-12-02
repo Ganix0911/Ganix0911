@@ -1,65 +1,39 @@
 <p align="center">
-  <img src="https://dummyimage.com/1600x400/050505/ffffff&text=GANIX+-+FRONTEND+ENGINEER" alt="Ganix Banner"/>
+  <img width="100%" src="data:image/svg+xml;utf8,
+  <svg xmlns='http://www.w3.org/2000/svg' width='1600' height='400'>
+    <defs>
+      <linearGradient id='g' x1='0%' y1='0%' x2='100%' y2='100%'>
+        <stop offset='0%' stop-color='#8b0000'/>
+        <stop offset='100%' stop-color='#000000'/>
+      </linearGradient>
+      <style>
+        .title {
+          fill: #ffffff;
+          font-size: 90px;
+          font-weight: 900;
+          font-family: Arial Black, Impact, sans-serif;
+          letter-spacing: 8px;
+          text-transform: uppercase;
+          dominant-baseline: middle;
+          text-anchor: middle;
+        }
+        .subtitle {
+          fill: #ffdddd;
+          font-size: 36px;
+          font-weight: 300;
+          font-family: Arial, sans-serif;
+          letter-spacing: 3px;
+          text-transform: uppercase;
+          dominant-baseline: middle;
+          text-anchor: middle;
+        }
+      </style>
+    </defs>
+
+    <rect width='100%' height='100%' fill='url(#g)'/>
+
+    <text x='50%' y='48%' class='title'>GANIX</text>
+    <text x='50%' y='72%' class='subtitle'>Frontend Engineer · UI Systems Builder</text>
+  </svg>
+  " />
 </p>
-
-# Hi, I'm **Ganix**  
-**Frontend Engineer & UI Systems Builder**
-
-I focus on building clean, fast, scalable frontends with tight component architecture, predictable UI systems, and zero-fluff engineering.
-
----
-
-## 🚀 Tech I Actually Use  
-Everything here is part of my real workflow — no filler.
-
-### **Languages / Core**
-- TypeScript  
-- JavaScript  
-- Python  
-- HTML  
-- CSS  
-- C++ (for the rare low-level need)
-
-### **Frontend**
-- React  
-- UI Architecture  
-- Component Systems  
-
----
-
-## 📌 Highlighted Project  
-
-### **🔹 Portfolio Website**  
-**Repo:** [`ganix0911/portfolio`](https://github.com/ganix0911/portfolio)
-
-A clean, high-performance frontend with proper animation flow, responsive layout logic, and structured components.
-
----
-
-## 📊 Stats (Dark Cinematic Theme)
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ganix0911&show_icons=true&theme=react&hide_border=true&bg_color=000000&title_color=00eaff&icon_color=00eaff" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganix0911&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=00eaff&icon_color=00eaff" height="180"/>
-
-</div>
-
----
-
-## 🐍 Activity Snake (Dark Mode)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ganix0911/Ganix0911/output/github-contribution-grid-snake-dark.svg" alt="snake graph"/>
-</p>
-
-> **Note:**  
-> To enable the snake animation, you need a GitHub Actions workflow.  
-> If you want, I’ll generate the full workflow YAML for you.
-
----
-
-## 🔗 Reach Me  
-
-- **GitHub:** https://github.com/Ganix0911
