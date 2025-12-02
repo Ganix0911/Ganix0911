@@ -1,39 +1,52 @@
 <p align="center">
-  <img width="100%" src="data:image/svg+xml;utf8,
-  <svg xmlns='http://www.w3.org/2000/svg' width='1600' height='400'>
-    <defs>
-      <linearGradient id='g' x1='0%' y1='0%' x2='100%' y2='100%'>
-        <stop offset='0%' stop-color='#8b0000'/>
-        <stop offset='100%' stop-color='#000000'/>
-      </linearGradient>
-      <style>
-        .title {
-          fill: #ffffff;
-          font-size: 90px;
-          font-weight: 900;
-          font-family: Arial Black, Impact, sans-serif;
-          letter-spacing: 8px;
-          text-transform: uppercase;
-          dominant-baseline: middle;
-          text-anchor: middle;
-        }
-        .subtitle {
-          fill: #ffdddd;
-          font-size: 36px;
-          font-weight: 300;
-          font-family: Arial, sans-serif;
-          letter-spacing: 3px;
-          text-transform: uppercase;
-          dominant-baseline: middle;
-          text-anchor: middle;
-        }
-      </style>
-    </defs>
-
-    <rect width='100%' height='100%' fill='url(#g)'/>
-
-    <text x='50%' y='48%' class='title'>GANIX</text>
-    <text x='50%' y='72%' class='subtitle'>Frontend Engineer · UI Systems Builder</text>
-  </svg>
-  " />
+  <img src="./banner.svg" alt="Ganix Banner" width="100%" />
 </p>
+
+# Hi, I'm **Ganix**  
+**Frontend Engineer & UI Systems Builder**
+
+I build clean, fast, scalable interfaces — with a focus on component architecture, predictable UI systems, and performance-focused layouts.  
+No bloat, no unnecessary complexity — just solid engineering.
+
+---
+
+## 🚀 Tech I Actually Use  
+Everything listed here is part of my real workflow.
+
+### **Languages / Core**
+- TypeScript  
+- JavaScript  
+- Python  
+- HTML  
+- CSS  
+- C++ (only when low-level performance matters)
+
+### **Frontend**
+- React  
+- UI Architecture  
+- Component Systems  
+
+---
+
+## 📌 Highlighted Project  
+
+### **🔹 Portfolio Website**  
+**Repo:** [`ganix0911/portfolio`](https://github.com/ganix0911/portfolio)
+
+A modern, high-performance portfolio built with clean UI structure, real animation flow, and consistent responsive behavior.
+
+---
+
+## 🐍 Activity Snake (Dark Mode)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ganix0911/Ganix0911/output/github-contribution-grid-snake-dark.svg" alt="snake graph"/>
+</p>
+
+> Want the automation? I can generate the GitHub Actions workflow for the snake animation.
+
+---
+
+## 🔗 Reach Me  
+
+- **GitHub:** https://github.com/Ganix0911
