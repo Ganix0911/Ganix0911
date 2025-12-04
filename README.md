@@ -44,14 +44,9 @@ I enjoy exploring new technologies, solving problems, and working on projects th
 
 <div align="center">
   
-| Stats | Value |
-|-------|-------|
-| ⭐ Total Stars Earned | — |
-| 🧩 Total Commits | — |
-| 📦 Total Repos | — |
-| 🔧 Total PRs | — |
-| 🐞 Total Issues | — |
-| ⏱️ Contribution Streak | — |
+  <img src="https://github-readme-stats.vercel.app/api?username=Ganix0911&show_icons=true&theme=dark&hide_border=true" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ganix0911&theme=dark&hide_border=true" />
 
 </div>
 
@@ -60,9 +55,7 @@ I enjoy exploring new technologies, solving problems, and working on projects th
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GandharvaDewan&theme=dark&hide_border=true" />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GandharvaDewan&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganix0911&theme=react-dark" />
 </div>
 
 ---
