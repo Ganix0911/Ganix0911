@@ -1,42 +1,81 @@
-<p align="center">
-  <img src="./banner.svg" alt="Ganix Banner" width="100%" />
-</p>
+<h1 align="center">Welcome to Gandharva's GitHub 🚀</h1>
 
-# Hi, I'm **Ganix**  
-**Frontend Engineer & UI Systems Builder**
-
-I build clean, fast, scalable interfaces — with a focus on component architecture, predictable UI systems, and performance-focused layouts.  
-No bloat, no unnecessary complexity — just solid engineering.
+<div align="center">
+  <img src="https://i.imgur.com/0ZfQZ4L.jpeg" width="80%" />
+</div>
 
 ---
 
-## 🚀 Tech I Actually Use  
-Everything listed here is part of my real workflow.
+## 👨🏻‍💻 About Me
 
-### **Languages / Core**
-- TypeScript  
-- JavaScript  
-- Python  
-- HTML  
-- CSS  
-- C++ (only when low-level performance matters)
+Hello there! I'm **Gandharva Dewan**, a developer who loves building, breaking, and rebuilding things in code.  
+I enjoy exploring new technologies, solving problems, and working on projects that sharpen my skills in **Python, C++, JavaScript, React, TypeScript, and HTML/CSS**.
 
-### **Frontend**
-- React  
-- UI Architecture  
-- Component Systems  
+- 💻 Passionate about software engineering & system design  
+- 🔥 Always learning, always improving  
+- 🎯 Focused on writing clean, efficient, scalable code  
+- 🤝 Open to collaborations, contributions & interesting project ideas  
 
 ---
 
-## 📌 Highlighted Project  
+## 🛠️ Technologies & Tools
 
-### **🔹 Portfolio Website**  
-**Repo:** [`ganix0911/portfolio`](https://github.com/ganix0911/portfolio)
+### 🚩 Languages
+- **Python**
+- **C++**
+- **JavaScript**
+- **TypeScript**
+- **HTML5**
+- **CSS3**
 
-A modern, high-performance portfolio built with clean UI structure, real animation flow, and consistent responsive behavior.
+### ⚛️ Frameworks & Libraries
+- **React**
+- **Node.js**
+- **Express**
+- **Bootstrap / Tailwind**
+
+### 🗄️ Databases
+- **MySQL**
+- **MongoDB**
 
 ---
 
-## 🔗 Reach Me  
+## 📊 GitHub Statistics
 
-- **GitHub:** https://github.com/Ganix0911
+<div align="center">
+  
+| Stats | Value |
+|-------|-------|
+| ⭐ Total Stars Earned | — |
+| 🧩 Total Commits | — |
+| 📦 Total Repos | — |
+| 🔧 Total PRs | — |
+| 🐞 Total Issues | — |
+| ⏱️ Contribution Streak | — |
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GandharvaDewan&theme=dark&hide_border=true" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GandharvaDewan&theme=react-dark" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[LinkedIn](#) • [Portfolio](#) • [Instagram](#)
+
+</div>
+
+---
+
+⭐ **Thanks for visiting!**  
+Feel free to explore my repositories and drop a star if you like something!
