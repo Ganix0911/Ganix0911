@@ -42,8 +42,6 @@ I enjoy exploring new technologies, solving problems, and working on projects th
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Ganix0911&show_icons=true&theme=dark&hide_border=true" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Ganix0911&theme=dark&hide_border=true" />
 
