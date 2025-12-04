@@ -2,7 +2,6 @@
 
 <div align="center">
 
-
 ---
 
 ## 👨🏻‍💻 About Me
@@ -61,7 +60,9 @@ I enjoy exploring new technologies, solving problems, and working on projects th
 
 <div align="center">
 
-[LinkedIn](#) • [Portfolio](#) • [Instagram](#)
+[LinkedIn](https://www.linkedin.com/in/gandharva-dewan-6051a4331/?lipi=urn%3Ali%3Apage%3Ap_mwlite_my_network%3AIHpV5h6%2FRxyKDDbHHlACGw%3D%3D) •  
+[Portfolio](https://www.pegasusservices.in) •  
+[Instagram](https://www.instagram.com/ganix.creates?igsh=MXc5bXNobGpjdWc4dw==)
 
 </div>
 
