@@ -1,8 +1,7 @@
 <h1 align="center">Welcome to Gandharva's GitHub 🚀</h1>
 
 <div align="center">
-  <img src="https://i.imgur.com/0ZfQZ4L.jpeg" width="80%" />
-</div>
+
 
 ---
 
